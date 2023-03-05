@@ -2,7 +2,7 @@
 <h3> Hello there, I'm Vinícius Nascimento 😄 </h3>
  🧑‍💼 Currently working with Java, Kubernetes and Vue.js
 </br>
- 💡 Learning more about Observability and Devops
+ 💡 Learning more about Observability, Devops and Golang
 </br>
  💬 Ask me about Java, Spring and Cloud
 
