@@ -21,9 +21,9 @@
 
 <div align=center>
   <div>
-    <img align="left" width="500px" heigth="60px" src="https://github-readme-stats.vercel.app/api?username=nascivini&show_icons=true&theme=dracula&count_private=true" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=nascivini&show_icons=true&theme=dracula&count_private=true" />
   </div>
   <div>
-    <img align="left" width="400px" heigth="30px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nascivini&layout=compact&theme=dracula&count_private=true" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nascivini&layout=compact&theme=dracula&count_private=true" />
   </div>
 </div>
